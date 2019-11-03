@@ -1,4 +1,4 @@
-[Citizem Code of Conduct  - Portuguese](https://github.com/greenlights1p04/GREENLIGHTSI4P04---BI/new/master#1-prop%C3%B3sito)
+[Citizem Code of Conduct  - Portuguese](https://github.com/greenlights1p04/GREENLIGHTSI4P04---BI/blob/master/CODE_OF_CONDUCT.md#1-prop%C3%B3sito)
 
 # Citizen Code of Conduct
 
