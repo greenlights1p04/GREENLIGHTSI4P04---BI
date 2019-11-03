@@ -1,6 +1,6 @@
 ![Figura1_ReadMe](https://user-images.githubusercontent.com/44067719/67125307-e50c7f00-f1ca-11e9-83a6-7ef1bb5b534e.png)
 #### Projeto-BI
-Antes, lembrem-se, todas as interações deste repositório esta aqui [Código de conduda](.github/CONDUCT_TEMPLATE/code-of-conduct.md).
+Antes, lembrem-se, todas as interações deste repositório esta aqui [Código de conduda](https://github.com/greenlights1p04/GREENLIGHTSI4P04---BI/blob/master/CODE_OF_CONDUCT.md).
 
 
 
